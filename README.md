@@ -32,8 +32,7 @@ Still can't hover through? The native of mars - our bot, RocketFuel will help yo
 
 
 ## Deployment
-Click [here](https://hack-codedynamos.vercel.app/home) to go to our Telegram Bot.
-You can also search our bot on telegram by searching @shreyaecho_bot
+Click [here](https://hack-codedynamos.vercel.app/home) to go to our website.
 
 ## Video Demo
 Click [here]() to watch our demo video.
